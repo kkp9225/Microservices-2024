@@ -1,0 +1,10 @@
+D:\Work_Related_Docs\Microservices_2-24\Microservices-new\microservices-new\product-service\src\main\java\com\kkp\product_service\dto\ProductRequest.java
+D:\Work_Related_Docs\Microservices_2-24\Microservices-new\microservices-new\product-service\src\main\java\com\kkp\product_service\model\Product.java
+D:\Work_Related_Docs\Microservices_2-24\Microservices-new\microservices-new\product-service\src\main\java\com\kkp\product_service\service\ProductService.java
+D:\Work_Related_Docs\Microservices_2-24\Microservices-new\microservices-new\product-service\src\main\java\com\kkp\product_service\dto\ProductResponse.java
+D:\Work_Related_Docs\Microservices_2-24\Microservices-new\microservices-new\product-service\src\main\java\com\kkp\product_service\model\Expense.java
+D:\Work_Related_Docs\Microservices_2-24\Microservices-new\microservices-new\product-service\src\main\java\com\kkp\product_service\repository\ExpenseRepo.java
+D:\Work_Related_Docs\Microservices_2-24\Microservices-new\microservices-new\product-service\src\main\java\com\kkp\product_service\repository\ProductRepository.java
+D:\Work_Related_Docs\Microservices_2-24\Microservices-new\microservices-new\product-service\src\main\java\com\kkp\product_service\controller\ProductController.java
+D:\Work_Related_Docs\Microservices_2-24\Microservices-new\microservices-new\product-service\src\main\java\com\kkp\product_service\model\ExpenseCategory.java
+D:\Work_Related_Docs\Microservices_2-24\Microservices-new\microservices-new\product-service\src\main\java\com\kkp\product_service\ProductServiceApplication.java

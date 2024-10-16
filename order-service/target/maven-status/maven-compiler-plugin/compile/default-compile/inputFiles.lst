@@ -1,0 +1,14 @@
+D:\Work_Related_Docs\Microservices_2-24\Microservices-new\microservices-new\order-service\src\main\java\com\kkp\order_service\dto\InventoryResponse.java
+D:\Work_Related_Docs\Microservices_2-24\Microservices-new\microservices-new\order-service\src\main\java\com\kkp\order_service\controller\OrderController.java
+D:\Work_Related_Docs\Microservices_2-24\Microservices-new\microservices-new\order-service\src\main\java\com\kkp\order_service\dto\OrderRequest.java
+D:\Work_Related_Docs\Microservices_2-24\Microservices-new\microservices-new\order-service\src\main\java\com\kkp\order_service\event\OrderPlacedEvent.java
+D:\Work_Related_Docs\Microservices_2-24\Microservices-new\microservices-new\order-service\src\main\java\com\kkp\order_service\exceptionHandler\OutOfStockException.java
+D:\Work_Related_Docs\Microservices_2-24\Microservices-new\microservices-new\order-service\src\main\java\com\kkp\order_service\OrderServiceApplication.java
+D:\Work_Related_Docs\Microservices_2-24\Microservices-new\microservices-new\order-service\src\main\java\com\kkp\order_service\util\FeignClientInterface.java
+D:\Work_Related_Docs\Microservices_2-24\Microservices-new\microservices-new\order-service\src\main\java\com\kkp\order_service\service\OrderService.java
+D:\Work_Related_Docs\Microservices_2-24\Microservices-new\microservices-new\order-service\src\main\java\com\kkp\order_service\dto\OrderLinesDto.java
+D:\Work_Related_Docs\Microservices_2-24\Microservices-new\microservices-new\order-service\src\main\java\com\kkp\order_service\exceptionHandler\GlobalExceptionHandler.java
+D:\Work_Related_Docs\Microservices_2-24\Microservices-new\microservices-new\order-service\src\main\java\com\kkp\order_service\model\OrderLineItems.java
+D:\Work_Related_Docs\Microservices_2-24\Microservices-new\microservices-new\order-service\src\main\java\com\kkp\order_service\model\Orders.java
+D:\Work_Related_Docs\Microservices_2-24\Microservices-new\microservices-new\order-service\src\main\java\com\kkp\order_service\repository\OrderRepository.java
+D:\Work_Related_Docs\Microservices_2-24\Microservices-new\microservices-new\order-service\src\main\java\com\kkp\order_service\config\WebClientConfig.java

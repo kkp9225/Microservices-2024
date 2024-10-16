@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.kkp.inventory_service.InventoryServiceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 26.117 s - in com.kkp.inventory_service.InventoryServiceApplicationTests

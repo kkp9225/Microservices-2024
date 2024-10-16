@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.kkp.product_service.ProductServiceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 65.529 s - in com.kkp.product_service.ProductServiceApplicationTests
