@@ -15,4 +15,5 @@ This repository contains the latest source code of the spring-boot-microservices
 2. MySql server/MySql DB console.
 3. Mongo DB/ Mongo DB Compass.
 4. Eclipse/STS/Intellije.
-5. Good Internet connection.
+5. JDK 8.
+6. Maven
